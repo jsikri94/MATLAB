@@ -6,4 +6,4 @@
 
 -- similarityMatrix.m calculates the similarities between the data points, for different values of sigma, in the form of a matrix.
 
---spec_clustering.m
+-- spec_clustering.m clusters the data points
